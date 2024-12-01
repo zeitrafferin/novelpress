@@ -1,0 +1,4 @@
+# Ignore secrets and backup files
+*.bak
+*.tmp
+secrets.yaml
